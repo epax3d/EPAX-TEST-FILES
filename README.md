@@ -1,6 +1,6 @@
 # EPAX-RESINS
 
-[Epax resins official table](https://docs.google.com/spreadsheets/d/1kWnEIWbbOaW-k9-AsixNVcJcqsk0gweiYVGLoHwa09E/edit?usp=sharing)
+- [Epax resins official table](https://docs.google.com/spreadsheets/d/1kWnEIWbbOaW-k9-AsixNVcJcqsk0gweiYVGLoHwa09E/edit?usp=sharing)
 
 # EPAX-TEST-FILES
 
