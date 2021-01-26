@@ -2,6 +2,8 @@
 
 - [Epax resins official table](https://docs.google.com/spreadsheets/d/1kWnEIWbbOaW-k9-AsixNVcJcqsk0gweiYVGLoHwa09E/edit?usp=sharing)
 
+----
+
 # EPAX-TEST-FILES
 
 EPAX branded Validation Matrix - Use maximum 4 base layers.
